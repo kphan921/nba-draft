@@ -5,9 +5,117 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("http://www.newdesignfile.com/postpic/2012/01/basketball-court-floor-texture_68453.jpg");
+  background-size: contain;
+  background-color: white;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.home-page {
+  background-image: url("https://images6.alphacoders.com/323/thumb-1920-323997.jpg");
+  background-size: cover;
+  background-color: #aaa;
+  height: 1000px;
+}
+
+.main-page {
+  margin-bottom: 100px;
+}
+
+.nav-bar {
+  margin: auto;
+  display: flex;
+  background-color: rgb(32, 64, 192);
+  color: white;
+}
+
+.nav-link {
+  width: 100px;
+  margin: auto;
+  padding: 10px;
+  background: rgb(32, 64, 192);
+  font-weight: bold;
+  color: white;
+}
+
+.filter {
+  margin: 10px;
+}
+
+.player-display {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.player-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.player-card {
+  width: 375px;
+  height: max;
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: white;
+}
+
+.player-card:hover {
+  box-shadow: 0 0 15px 1px lightblue;
+  border: 2px solid dodgerblue;
+}
+
+.player-info {
+  display: grid;
+  grid-template-columns: 110px 270px;
+}
+
+.player-team-img-card {
+  width: 64px;
+}
+
+.player-img-card {
+  margin-left: 5px;
+  margin-top: 11.5px;
+  width: 128px;
+}
+
+.player-details > p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.player-more-info {
+  margin: auto;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: white;
+  width: 950px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.player-team-img-info {
+  width: 256px;
+}
+
+.player-img-info {
+  width: 320px;
+}
+
+.player-details-info {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.button {
+  margin: 20px;
+  cursor: pointer
 }
