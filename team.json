@@ -1,0 +1,60 @@
+{
+  "team": [
+    {
+      "id": 201939,
+      "name": "Stephen Curry",
+      "height": "6-3",
+      "weight": "185",
+      "position": "PG",
+      "team": "GSW",
+      "number": "30",
+      "birthday": "1988-03-14",
+      "from": "Davidson",
+      "draft": "2009 R1 7",
+      "country": "USA",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png"
+    },
+    {
+      "id": 2544,
+      "name": "LeBron James",
+      "height": "6-9",
+      "weight": "250",
+      "position": "SF",
+      "team": "LAL",
+      "number": "23",
+      "birthday": "1984-12-30",
+      "from": "St. Vincent-St. Mary HS (OH)",
+      "draft": "2003 R1 1",
+      "country": "USA",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png"
+    },
+    {
+      "id": 202691,
+      "name": "Klay Thompson",
+      "height": "6-6",
+      "weight": "215",
+      "position": "SG",
+      "team": "GSW",
+      "number": "11",
+      "birthday": "1990-02-08",
+      "from": "Washington State",
+      "draft": "2011 R1 11",
+      "country": "USA",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png"
+    },
+    {
+      "id": 201142,
+      "name": "Kevin Durant",
+      "height": "6-10",
+      "weight": "240",
+      "position": "SF/PF",
+      "team": "BKN",
+      "number": "7",
+      "birthday": "1988-09-29",
+      "from": "Texas",
+      "draft": "2007 R1 2",
+      "country": "USA",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png"
+    }
+  ]
+}
