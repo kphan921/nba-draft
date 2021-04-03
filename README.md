@@ -1,3 +1,30 @@
+# **NBA Team Builder**
+
+This project uses React to create a web app that allows the user to browse a list of NBA players and draft their own team of players. Run `npm start` to start the app in your web browser on [http://localhost:3001/](http://localhost:3001/)
+
+# Core Deliverables
+
+As a user, I should be able to:
+
+- View NBA players from a database
+- Search for a specific player
+- Filter players by:
+    - Team
+    - Position
+    - Year drafted
+    - College attended
+    - Nationality
+- Sort players by:
+    - Name
+    - Height
+    - Weight
+- View more information about a player on a separate page by clicking on them
+- Add and remove players from my team
+
+The API we are using will be our own JSON server of NBA players, which is available [here](https://bcheung98.github.io/nba-player-db/players.json).
+
+The user's team will be stored on a separate JSON server, located [here](http://localhost:3000/team).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +95,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# nba-team-builder
