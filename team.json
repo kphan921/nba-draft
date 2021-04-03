@@ -15,20 +15,6 @@
       "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png"
     },
     {
-      "id": 2544,
-      "name": "LeBron James",
-      "height": "6-9",
-      "weight": "250",
-      "position": "SF",
-      "team": "LAL",
-      "number": "23",
-      "birthday": "1984-12-30",
-      "from": "St. Vincent-St. Mary HS (OH)",
-      "draft": "2003 R1 1",
-      "country": "USA",
-      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png"
-    },
-    {
       "id": 202691,
       "name": "Klay Thompson",
       "height": "6-6",
@@ -55,6 +41,20 @@
       "draft": "2007 R1 2",
       "country": "USA",
       "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png"
+    },
+    {
+      "id": 203500,
+      "name": "Steven Adams",
+      "height": "6-11",
+      "weight": "265",
+      "position": "C",
+      "team": "NOP",
+      "number": "12",
+      "birthday": "1993-7-20",
+      "from": "Pittsburgh",
+      "draft": "2013 R1 12",
+      "country": "New Zealand",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png"
     }
   ]
 }

@@ -1,6 +1,4 @@
 {
-  "homepage": "https://kphan921.github.io/nba-draft/",
-  
   "name": "nba-draft",
   "version": "0.1.0",
   "private": true,
@@ -15,11 +13,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-
     "start": "json-server -w team.json -p 3000 & PORT=3001 react-scripts start",
-
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
