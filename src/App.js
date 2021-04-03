@@ -37,7 +37,8 @@ class App extends React.Component {
         .then((r) => r.json())
         .then((player) =>
           this.setState({ team: [...this.state.team, player] })
-        );
+        )
+        .catch(() => window.alert(`${player.name} is already in your team!`));
     } else {
       return;
     }

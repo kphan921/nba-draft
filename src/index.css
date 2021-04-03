@@ -66,11 +66,6 @@ code {
   color: white;
 }
 
-.player-card:hover {
-  box-shadow: 0 0 15px 1px lightblue;
-  border: 2px solid dodgerblue;
-}
-
 .player-info {
   display: grid;
   grid-template-columns: 110px 270px;
